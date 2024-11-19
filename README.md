@@ -22,7 +22,7 @@ Precompiled binaries for Windows and Linux found [here](https://github.com/flynn
 git clone https://github.com/flynn-28/File-Sorter.git
 ```
 2. open directory
-```json
+```bash
 cd filesort
 ```
 3. Compile source
